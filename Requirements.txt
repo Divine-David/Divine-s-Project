@@ -1,5 +1,5 @@
-panda
-numPy
+pandas
+numpy
 scikit-learn
 joblib
 matplotlib
