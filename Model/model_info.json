@@ -1,0 +1,7 @@
+{
+    "classification_model": "classifier_model.pkl",
+    "classification_scaler": "classifier_scaler.pkl",
+    "regression_model": "regressor_model.pkl",
+    "regression_scaler": "regressor_scaler.pkl",
+    "regression_target": "time_to_profit_months"
+}

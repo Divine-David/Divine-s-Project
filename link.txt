@@ -1,0 +1,1 @@
+streamlit run "C:\Users\APPLE HUB\Desktop\Divine's Project\src\App.py"
