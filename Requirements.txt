@@ -1,7 +1,7 @@
 panda
-NumPy
+numPy
 scikit-learn
-Joblib
+joblib
 matplotlib
 seaborn
 streamlit
